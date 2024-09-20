@@ -45,6 +45,33 @@
     background-repeat: no-repeat;
 }
 
+.fondo8{
+    background-image: url("../img/IMG_6048.JPEG");
+    background-size: 50%;
+    background-repeat: repeat-y;
+}
+
+.fondo9{
+    background-image: url("../img/IMG_6048.JPEG");
+    background-size: 20%;
+    background-position: top right;
+    background-color: green;
+    background-repeat: repeat-x;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+.btnNuevo {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #b3ff00;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 2px solid #b3ff00;
+  }
+
 .fondo10{
     max-width: 50%;
     border: 3px;
